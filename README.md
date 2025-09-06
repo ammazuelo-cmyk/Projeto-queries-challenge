@@ -37,6 +37,8 @@ Construir as seguintes consultas:
 - Agrupar a quantidade de vendas que uma determinada Marca por Loja. 
 - Listar os Funcionarios que não estejam relacionados a um Pedido.
 
+As queries estao no repositório.
+
 ## Readme do Repositório
 
 - Deve conter o título do projeto
