@@ -1,5 +1,4 @@
-# DBA Challenge 20240802
-
+# Projeto desenvolvido como parte de um challenge técnico
 
 ## Introdução
 
