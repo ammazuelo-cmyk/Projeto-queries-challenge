@@ -1,0 +1,19 @@
+#Descrição do Projeto
+-Projeto desenvolvido como parte de um challenge técnico.
+
+#Tecnologias Utilizadas
+-SQL SERVER 2014 - banco de dados.
+-GIT - Controle de versão.
+-GITHUB - Hospedagem do código.
+
+#Modelo de dados
+O Projeto trabalha com um modelo de dados de vendas:
+-Tabelas de clientes, produtos, pedido e estoque.
+-Relacionamentos entre lojas.
+
+#Instalação e Execução
+-Clone o repositório, para o seu repositório ou do usuário.
+-Execução no SQL Server
+	Abra o arquivo. sql desejado
+	Conecte-se ao banco de dados
+	Execute a query desejada
