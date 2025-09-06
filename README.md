@@ -1,4 +1,4 @@
-# DBA Challenge 20240802
+# Projeto desenvolvido como parte de um challenge técnico
 
 
 ## Introdução
@@ -58,3 +58,5 @@ Construir as seguintes consultas:
 ## Suporte
 
 Para tirar dúvidas sobre o processo envie uma mensagem diretamente a um especialista no chat da plataforma. 
+
+## As descrições, lista de tecnologia, instruções e o .gitignore estao no arquivo Descrição do Projeto.txt dentro do repositório!!! 
